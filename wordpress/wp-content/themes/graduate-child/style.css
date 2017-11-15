@@ -1,0 +1,25 @@
+/*
+Theme Name: graduate-child
+Description: Theme enfant du theme WordPress.org Themes. Vous pouvez desormais le personnaliser sans risquer de perdre vos modifications
+Author: karina
+Author URI: https://karina.biz
+Template: graduate
+Version: 1.0
+*/
+
+.main-navigation #search input[type="search"] {
+	display : none;
+}
+.site-info .pull-left p {
+	display : none;
+}
+.main-navigation button {
+	display : none;
+}
+
+.es_widget_form_name {
+    color: white ;
+}
+.es_widget_form_email {
+    color: white;
+}
